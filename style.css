@@ -1,0 +1,43 @@
+body{
+    background-image: url("back.png");
+    background-size: cover;
+    position: absolute;
+    
+}
+.sign{
+    margin-left: 80rem;
+    margin-top: 30px;
+}
+.lang{
+    margin-top: 0PX;
+}
+
+.btn-group{
+    margin-left: 80rem;
+    padding-top: 0px;
+
+}
+
+H1{
+    color: azure;
+}
+form,.form-text{
+    color: azure;
+    font-size: large;
+}
+FORM{
+    margin-top: 100PX;
+}
+p{
+    margin-top: 30rem;
+    color: white;
+    font-size: 20px;
+}
+
+img:hover{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    transform: scale(1.2);
+    transition: transform 1.2s;
+}
